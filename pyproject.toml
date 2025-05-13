@@ -4,7 +4,7 @@ requires = ['meson-python', 'numpy']
 
 [project]
 name = 'paulaner_colormaps'
-version = '1.0.0rc0'
+version = '1.0.0rc1'
 description = 'Paulaner-inspired colormaps'
 readme = { file = 'README.md', content-type = 'text/markdown' }
 keywords = [
