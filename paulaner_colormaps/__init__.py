@@ -1,4 +1,8 @@
+from importlib import metadata as _md
 from matplotlib.colors import LinearSegmentedColormap as _lsc
+
+__name__ = "paulaner_colormaps"
+__version__ = _md.version("paulaner_colormaps")
 
 spezi = _lsc.from_list(
     "spezi",
