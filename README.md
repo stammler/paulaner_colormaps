@@ -15,7 +15,9 @@ pip install paulaner_colormaps
 ```python
 import paulaner_colormaps
 
+paulaner_colormaps.orange
 paulaner_colormaps.spezi
+paulaner_colormaps.zitrone
 ```
 
 ## Example
