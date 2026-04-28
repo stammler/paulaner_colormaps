@@ -37,8 +37,21 @@ zitrone = _lsc.from_list(
     ],
 )
 
+cola = _lsc.from_list(
+    "cola",
+    [
+        "#000000",
+        "#462d7B",
+        "#773dbd",
+        "#c22aba",
+        "#e4007d",
+    ],
+)
+
+
 __all__ = [
     orange,
     spezi,
     zitrone,
+    cola,
 ]
